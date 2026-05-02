@@ -32,3 +32,13 @@ By Month 6: 3 active retainer clients, helping Nairobi-based clinics, law firms,
 I'm John — formerly a freelance academic writer, now transitioning to building AI automation systems. Based in Kenya, moving to Nairobi soon. Math and CS background. Building in public.
 
 Follow along.
+
+**Day 1 Reflections:**
+- The Python + Claude API setup was smoother than expected. Cursor saved hours.
+- n8n's visual approach finally made "API calls" feel concrete and clear.
+- Hardest part: Writing the first code
+- Most exciting moment: I saw and understood how n8n works
+- Tomorrow I want to understand: I want to know more about the AI automation 
+
+
+
